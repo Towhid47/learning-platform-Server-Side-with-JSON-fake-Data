@@ -15,6 +15,10 @@ app.get('/', (req, res)=>{
     res.send('Tutor API running');
 });
 
+app.get('/course', (req,res)=>{
+    res.send(courses);
+})
+
 app.get('/course-categories', (req, res) =>{
     res.send(categories);
 })
