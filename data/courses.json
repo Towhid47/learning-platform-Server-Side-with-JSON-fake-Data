@@ -1,6 +1,7 @@
-[
-  {
-    "course_id": 101,
+ [
+   {
+    "category_id": "1",
+    "course_id": "101",
     "course_title": "Bug Bounty",
     "category": "Cyber Security",
     "image": "https://intellectualpoint.com/wp-content/uploads/2022/07/Purple-Modern-Business-Blog-Banner-1024x576.png",
@@ -8,7 +9,8 @@
     "details": "A bug bounty program, also called a vulnerability rewards program (VRP), is a crowdsourcing initiative that rewards individuals for discovering and reporting software bugs. Bug bounty programs are often initiated to supplement internal code audits and penetration tests as part of an organization's vulnerability management strategy."
   },
   {
-    "course_id": 102,
+    "category_id": "1",
+    "course_id": "102",
     "course_title": "Ethical Hacking",
     "category": "Cyber Security",
     "image": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/06/Ethical-Hacking.png",
@@ -16,7 +18,8 @@
     "details": "Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers."
   },
   {
-    "course_id": 103,
+    "category_id": "5",
+    "course_id": "103",
     "course_title": "HTML & CSS",
     "category": "Web Development",
     "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/108400315/original/099ffb830ffa3ce81209f171b2aef2183fd438d8/web-programming-responsive-html-css-website.jpg",
@@ -24,7 +27,8 @@
     "details": "HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices. Along with graphics and scripting, HTML and CSS are the basis of building Web pages and Web Applications"
   },
   {
-    "course_id": 104,
+    "category_id": "5",
+    "course_id": "104",
     "course_title": "JavaScript Tutorial",
     "category": "Web Development",
     "image": "https://www.thewindowsclub.com/wp-content/uploads/2020/09/JavaScript.jpg",
@@ -32,7 +36,8 @@
     "details": "JavaScript is a dynamic programming language that's used for web development, in web applications, for game development, and lots more. It allows you to implement dynamic features on web pages that cannot be done with only HTML and CSS."
   },
   {
-    "course_id": 105,
+    "category_id": "2",
+    "course_id": "105",
     "course_title": "UI Design",
     "category": "Web Design",
     "image": "https://coursesxpert.com/wp-content/uploads/2021/03/UI-UX-Design-Course-India.jpeg",
@@ -40,7 +45,8 @@
     "details": "User interface (UI) design is the process designers use to build interfaces in software or computerized devices, focusing on looks or style. Designers aim to create interfaces which users find easy to use and pleasurable. UI design refers to graphical user interfaces and other forms—e.g., voice-controlled interfaces."
   },
   {
-    "course_id": 106,
+    "category_id": "2",
+    "course_id": "106",
     "course_title": "UX Design",
     "category": "Web Design",
     "image": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg?w=2000",
@@ -48,7 +54,8 @@
     "details": "User experience (UX) design is the process design teams use to create products that provide meaningful and relevant experiences to users. UX design involves the design of the entire process of acquiring and integrating the product, including aspects of branding, design, usability and function."
   },
   {
-    "course_id": 107,
+    "category_id": "3",
+    "course_id": "107",
     "course_title": "C++",
     "category": "Programming Language",
     "image": "https://media.geeksforgeeks.org/wp-content/uploads/20191113114209/CTutorial.png",
@@ -56,7 +63,8 @@
     "details": "C++ is a programming language that was developed by Bjorne Stroustrup. His idea was to produce a strong programming object-oriented language with the powers of C. It was initially known as C with classes as it had a combination of object orientation with class functionality. It covers both high-level and low-level language and thus is an intermediate language. It is easier to learn C++ if one knows C, as C++ is just an extended language. A beginner can pick C++ if object-oriented programming is their preference."
   },
   {
-    "course_id": 108,
+    "category_id": "3",
+    "course_id": "108",
     "course_title": "Python",
     "category": "Programming Language",
     "image": "https://logicoretech.com/wp-content/uploads/2022/05/Python-Symbol.png",
@@ -64,7 +72,8 @@
     "details": "Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL)."
   },
   {
-    "course_id": 109,
+    "category_id": "4",
+    "course_id": "109",
     "course_title": "Fundamental of Machine Learning",
     "category": "Machine Learning",
     "image": "https://www.freecodecamp.org/news/content/images/2022/08/A6125B75-DB79-4448-94C9-E6ABD3E0E3E9.jpeg",
@@ -72,7 +81,8 @@
     "details": "Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy."
   },
   {
-    "course_id": 110,
+    "category_id": "6",
+    "course_id": "110",
     "course_title": "Network Architecture",
     "category": "Computer Network",
     "image": "https://i.ytimg.com/vi/pqJ8jz7lwns/maxresdefault.jpg",

@@ -1,26 +1,30 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Cyber Security"
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "Web Design"
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Programming Languages"
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "Machine Learning"
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "Web Development"
   },
   {
-    "id": 6,
+    "id": "6",
     "name": "Computer Network"
+  },
+  {
+    "id":"7",
+    "name":"All Courses"
   }
 ]
